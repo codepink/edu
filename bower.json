@@ -1,0 +1,17 @@
+{
+  "name": "codepink-edu",
+  "homepage": "https://github.com/codepink/edu",
+  "authors": [
+    "codepink"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
