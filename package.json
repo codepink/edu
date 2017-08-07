@@ -1,5 +1,5 @@
 {
-  "name": "codepink-edu",
+  "name": "t-codepink-edu",
   "version": "2.0.0",
   "description": "github test",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/codepink/edu.git"
+    "url": "git+https://github.com/codepink/edu-test.git"
   },
   "author": "",
   "license": "ISC",
