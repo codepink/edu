@@ -1,0 +1,19 @@
+{
+  "name": "codepink-edu",
+  "version": "1.0.0",
+  "description": "github test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codepink/edu.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/codepink/edu/issues"
+  },
+  "homepage": "https://github.com/codepink/edu#readme"
+}
